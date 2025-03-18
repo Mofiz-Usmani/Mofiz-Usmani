@@ -12,9 +12,9 @@ I am a Computer Science student passionate about **coding, web development, and 
 - **Frameworks:** React, Tailwind CSS  
 - **Tools:** Git, VS Code  
 
-## 📫 Connect with Me  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/byteengineer_) 
-- **GitHub:** [github.com/yourusername](https://github.com/Mofiz-Usmani)  
+## 📫 Connect with Me
+- **Instagram:** [@byteengineer_](https://instagram.com/yourusername)  
+- **GitHub:** [github.com/Mofiz-Usmani](https://github.com/Mofiz-Usmani)  
 
 # 💫 About Me:
 - 💻 Currently working on **Full-Stack Projects**  <br>- 🤖 Learning **Artificial Intelligence & Machine Learning**  <br>- 🔥 Passionate about **Web Development & AI Integration**  
