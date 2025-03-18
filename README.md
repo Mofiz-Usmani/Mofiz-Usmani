@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mofiz! 👋  
 
-<!--
-**Mofiz-Usmani/Mofiz-Usmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student passionate about **coding, web development, and AI**.  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🎓 Studying **Computer Science**  
+- 💡 Exploring **Frontend & Full-Stack Development**  
+- 🔥 Interested in **AI, JavaScript, and React**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills  
+- **Languages:** HTML, CSS, JavaScript  
+- **Frameworks:** React, Tailwind CSS  
+- **Tools:** Git, VS Code  
+
+## 📫 Connect with Me  
+- **Instagram:** [@yourusername](https://instagram.com/byteengineer_)  
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+
+Thanks for visiting! 🚀  
