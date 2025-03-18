@@ -13,7 +13,7 @@ I am a Computer Science student passionate about **coding, web development, and 
 - **Tools:** Git, VS Code  
 
 ## 📫 Connect with Me  
-- **Instagram:** [@yourusername](https://instagram.com/byteengineer_)  
+- **Instagram:** https://www.instagram.com/byteengineer_?igsh=ejZja2g5MTBqYWQ=  
 - **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
 
 Thanks for visiting! 🚀  
