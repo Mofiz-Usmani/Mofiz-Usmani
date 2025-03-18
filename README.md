@@ -14,7 +14,7 @@ I am a Computer Science student passionate about **coding, web development, and 
 
 ## 📫 Connect with Me  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/byteengineer_) 
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+- **GitHub:** [github.com/yourusername](https://github.com/Mofiz-Usmani)  
 
 # 💫 About Me:
 - 💻 Currently working on **Full-Stack Projects**  <br>- 🤖 Learning **Artificial Intelligence & Machine Learning**  <br>- 🔥 Passionate about **Web Development & AI Integration**  
