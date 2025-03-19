@@ -6,12 +6,6 @@ I am a Computer Science student passionate about **coding, web development, and 
 - 🎓 Studying **Computer Science**  
 - 💡 Exploring **Frontend & Full-Stack Development**  
 - 🔥 Interested in **AI, JavaScript, and React**  
-
-## 💻 Skills  
-- **Languages:** HTML, CSS, JavaScript  
-- **Frameworks:** React, Tailwind CSS  
-- **Tools:** Git, VS Code  
-
 ## 📫 Connect with Me
 - **Instagram:** [@byteengineer_](https://instagram.com/byteengineer_)  
 - **GitHub:** [github.com/Mofiz-Usmani](https://github.com/Mofiz-Usmani)  
