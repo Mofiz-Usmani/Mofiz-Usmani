@@ -1,12 +1,8 @@
 # Hi, I'm Mofiz! 👋  
-
-I am a Computer Science student passionate about **coding, web development, and AI**.  
-
-## 🚀 About Me  
+ 
 - 🎓 Studying **Computer Science**  
 - 💡 Exploring **Frontend & Full-Stack Development**  
 - 🔥 Interested in **AI, JavaScript, and React**  
-## 📫 Connect with Me
 - **Instagram:** [@byteengineer_](https://instagram.com/byteengineer_)  
 - **GitHub:** [github.com/Mofiz-Usmani](https://github.com/Mofiz-Usmani)  
 
