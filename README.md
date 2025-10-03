@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-```javascript
+javascript
 const mofiz = {
   pronouns: "he" | "him",
   code: ["JavaScript", "Java", "HTML", "CSS"],
@@ -36,7 +36,6 @@ const mofiz = {
   currentFocus: "Building scalable full-stack applications",
   funFact: "I turn coffee into code ☕"
 };
-```
 
 💻 Tech Stack
 
