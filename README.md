@@ -18,6 +18,21 @@
 
 ## 🚀 About Me
 
+🎓 **Computer Science Student** passionate about technology and innovation  
+💻 **Full-Stack Developer** with expertise in modern web technologies  
+☁️ **Cloud & DevOps Enthusiast** exploring scalable solutions  
+🚀 **Always Learning** and building projects that make a difference  
+
+### 🛠️ What I Do:
+- Build responsive web applications using **JavaScript**, **Node.js**, and **Express.js**
+- Design and develop databases with **MongoDB** and **MySQL**
+- Deploy applications using **AWS** and **Docker**
+- Create user-friendly interfaces with **HTML**, **CSS**, and **Bootstrap**
+- Currently focused on building scalable full-stack applications
+
+### 💡 Fun Fact:
+> I turn coffee into code ☕ and believe that every problem has an elegant solution!
+
 ```javascript
 const mofiz = {
   pronouns: "he/him",
@@ -29,6 +44,7 @@ const mofiz = {
     tools: ["Figma", "Canva", "PowerShell"]
   },
   currentFocus: "Building scalable full-stack applications",
+  askMeAbout: ["Web Development", "Cloud Computing", "System Design"],
   funFact: "I turn coffee into code ☕"
 };
 ```
