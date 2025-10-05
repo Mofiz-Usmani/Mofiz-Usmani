@@ -108,8 +108,9 @@ To know more about me, my projects and my skills, visit my **[Portfolio](#)** an
 **📈 Activity Graph**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mofiz-Usmani&theme=radical&hide_border=true" /> 
+  <img src="https://streak-stats.demolab.com?user=Mofiz-Usmani&theme=radical&hide_border=true" />
 </div>
+
 
 ## 📺 Profile Trophies
 
