@@ -12,13 +12,13 @@
 
 ## 🚀 About Me
 
-I’m a developer who loves solving real-world problems through clean, scalable, and efficient code. My focus is on building full-stack web applications that make a tangible impact.
+I’m a developer who loves solving real-world problems through clean, scalable, and efficient code. My focus is on building full-stack web applications that make a tangible impact.<br>
 
-🔭 Working on end-to-end web and mobile solutions
-🌱 Learning Microservices, Cloud Architecture, and React Optimization
-👯 Open to collaborations on HealthTech and SaaS projects
-💬 Let’s talk about React, Node.js, Express, MongoDB, Cloud Services
-📫 Email me: mofizusmani1@gmail.com
+🔭 Working on end-to-end web and mobile solutions<br>
+🌱 Learning Microservices, Cloud Architecture, and React Optimization<br>
+👯 Open to collaborations on HealthTech and SaaS projects<br>
+💬 Let’s talk about React, Node.js, Express, MongoDB, Cloud Services<br>
+📫 Email me: mofizusmani1@gmail.com<br>
 ⚡ Fun fact: I see healthcare as the next big frontier for tech innovation
 
 ## 📊 GitHub Statistics
