@@ -12,14 +12,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer working on **StarPharma** - a comprehensive pharmaceutical management system. I love creating innovative solutions that make a difference in healthcare technology.
+I’m a developer who loves solving real-world problems through clean, scalable, and efficient code. My focus is on building full-stack web applications that make a tangible impact.
 
-- 🔭 I'm currently working on **StarPharma** - A modern pharmaceutical management platform
-- 🌱 I'm currently learning **Advanced React Patterns** and **Healthcare Software Architecture**
-- 👯 I'm looking to collaborate on **Healthcare Technology Projects**
-- 💬 Ask me about **React, Node.js, MongoDB, and Pharmaceutical Software**
-- 📫 How to reach me: **[Your Email Here]**
-- ⚡ Fun fact: I believe technology can revolutionize healthcare accessibility
+🔭 Working on end-to-end web and mobile solutions
+🌱 Learning Microservices, Cloud Architecture, and React Optimization
+👯 Open to collaborations on HealthTech and SaaS projects
+💬 Let’s talk about React, Node.js, Express, MongoDB, Cloud Services
+📫 Email me: mofizusmani1@gmail.com
+⚡ Fun fact: I see healthcare as the next big frontier for tech innovation
 
 ## 📊 GitHub Statistics
 
