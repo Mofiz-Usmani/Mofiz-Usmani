@@ -1,129 +1,160 @@
-# Hi there, I'm Mofiz Usmani 👋👋
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="public, max-age=3600">
+<meta http-equiv="Expires" content="3600">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mofiz!+%F0%9F%91%8B;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Computer+Science+Student" alt="Typing SVG" />
-</p>
-
-## Connect with me
-
-<p align="center">
-  <a href="https://instagram.com/byteengineer_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mofiz-usmani">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mofiz.usmani@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-## Interesting Facts !!! 🤔
-
-- 🔭 I love **Full-Stack Development** and **Problem Solving** !!!
-- 🚀 Visit my Portfolio @ **[Mofiz Usmani](#)** (Coming Soon!)
-- 🌱 Currently mastering **MERN Stack** and **Cloud Technologies** 🤣
-- 💬 Ask me about **Web Development**, **JavaScript**, and **System Design**
-- 📫 How to reach me: **mofiz.usmani@example.com**
-- 🤔 I'm looking to collaborate on **Full-stack web development** projects
-- 😄 Pronouns: **He/Him**
-- 🥅 2024 Goals: Build more **scalable applications** and contribute to **Open Source** !!
-- ⚡ Fun fact: I turn **coffee into code** ☕ and love exploring new technologies!
-
-I love connecting with different people and if you want to say hi, My Inbox is open all time for any support!!! 😊
-
-# 🚀 My Skills and TechStacks
-
-## 👨🏻‍💻 Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-## 🌐 Web Development
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
-</p>
-
-## 🛢 Database
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-## ⚙️ Platforms
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-## 🔧 Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-</p>
-
-## 💻 Operating System
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
-## 🤔 More About Me
-
-### - I am passionate about building **scalable web applications** and exploring **cloud technologies** to create innovative solutions.
-
-### 🌐 Demo @ **[Star Surgicals E-commerce Platform](#)** (Current Project)
-
-### - **Full-Stack Developer** with experience in **MERN Stack** and **Cloud Deployment**
-
-### - Active **Problem Solver** who enjoys turning complex challenges into elegant solutions
-
-To know more about me, my projects and my skills, visit my **[Portfolio](#)** and my **[LinkedIn Profile](https://linkedin.com/in/mofiz-usmani)**
-
----
-
-## 📈 Github Metrics
-
-## 📊 GitHub Stats
-
-<div align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=radical&hide_border=true&count_private=true" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&theme=radical&hide_border=true&layout=compact" /> 
-</div>
-
-**📈 Activity Graph**
+# Hi there! 👋 I'm Mofiz Usmani
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mofiz-Usmani&theme=radical&hide_border=true" />
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Pharmaceutical+Software+Specialist;Always+learning+new+things)](https://git.io/typing-svg)
+
 </div>
 
+## 🚀 About Me
 
-## 📺 Profile Trophies
+I'm a passionate developer working on **StarPharma** - a comprehensive pharmaceutical management system. I love creating innovative solutions that make a difference in healthcare technology.
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" /> 
-</p>
+- 🔭 I'm currently working on **StarPharma** - A modern pharmaceutical management platform
+- 🌱 I'm currently learning **Advanced React Patterns** and **Healthcare Software Architecture**
+- 👯 I'm looking to collaborate on **Healthcare Technology Projects**
+- 💬 Ask me about **React, Node.js, MongoDB, and Pharmaceutical Software**
+- 📫 How to reach me: **[Your Email Here]**
+- ⚡ Fun fact: I believe technology can revolutionize healthcare accessibility
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+### 📈 General Statistics
+<!-- Enhanced GitHub Stats with Error Handling and Caching -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_radius=10&card_width=500&cache_seconds=1800">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=2F80ED&icon_color=F85D7F&text_color=333333&border_radius=10&card_width=500&cache_seconds=1800">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_radius=10&card_width=500&cache_seconds=1800" onerror="this.onerror=null;this.src='https://via.placeholder.com/500x200/0D1117/F85D7F?text=Stats+Loading...'">
+</picture>
+
+### 🔥 Contribution Streak
+<!-- Enhanced Streak Stats with Timezone Handling and Multiple Fallbacks -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&card_width=500&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Mofiz-Usmani&theme=default&hide_border=true&background=FFFFFF&ring=F85D7F&fire=F85D7F&currStreakLabel=2F80ED&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=333333&excludeDaysLabel=333333&card_width=500&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&card_width=500&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800" onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com/?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117';if(this.onerror){this.onerror=null;this.src='https://via.placeholder.com/500x200/0D1117/F85D7F?text=Streak+Stats+Loading...'}">
+</picture>
+
+### 💻 Most Used Languages
+<!-- Enhanced Language Stats with Compact Layout and Error Handling -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&card_width=500&border_radius=10&cache_seconds=1800&exclude_repo=github-readme-stats">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2F80ED&text_color=333333&langs_count=8&card_width=500&border_radius=10&cache_seconds=1800&exclude_repo=github-readme-stats">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&card_width=500&border_radius=10&cache_seconds=1800&exclude_repo=github-readme-stats" onerror="this.onerror=null;this.src='https://via.placeholder.com/500x200/0D1117/F85D7F?text=Languages+Loading...'">
+</picture>
+
+### 📊 Activity Graph
+<!-- Primary Activity Graph with Enhanced Error Handling -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=radical&bg_color=0D1117&hide_border=true&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F&custom_title=Contribution%20Activity%20Graph&days=365&height=300">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=minimal&bg_color=FFFFFF&hide_border=true&line=F85D7F&point=000000&area=true&area_color=F85D7F&custom_title=Contribution%20Activity%20Graph&days=365&height=300">
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=radical&bg_color=0D1117&hide_border=true&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F&custom_title=Contribution%20Activity%20Graph&days=365&height=300" onerror="this.onerror=null;this.src='https://via.placeholder.com/800x300/0D1117/F85D7F?text=Activity+Graph+Loading...'">
+</picture>
+
+### 🏆 GitHub Trophies
+<!-- Enhanced GitHub Trophies with Performance Optimization -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" onerror="this.onerror=null;this.src='https://via.placeholder.com/800x200/0D1117/F85D7F?text=Trophies+Loading...'">
+</picture>
+
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+## 🏥 Featured Project: StarPharma
+
+<div align="center">
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mofiz-Usmani&repo=StarPharma&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Mofiz-Usmani/StarPharma)
+
+</div>
+
+**StarPharma** is a comprehensive pharmaceutical management system designed to streamline healthcare operations:
+
+- 🏪 **Inventory Management**: Real-time tracking of pharmaceutical products
+- 👥 **User Management**: Role-based access control for different stakeholders
+- 📊 **Analytics Dashboard**: Comprehensive reporting and insights
+- 🔐 **Security**: Enterprise-grade security measures
+- 📱 **Responsive Design**: Works seamlessly across all devices
+
+## 📈 Contribution Activity
+
+<!-- Enhanced Activity Graph Section with Multiple Fallback Options -->
+<div align="center">
+  
+<!-- Primary Activity Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=react-dark&bg_color=0D1117&hide_border=true&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F&custom_title=GitHub%20Contribution%20Activity&days=365&height=300">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=minimal&bg_color=FFFFFF&hide_border=true&line=F85D7F&point=000000&area=true&area_color=F85D7F&custom_title=GitHub%20Contribution%20Activity&days=365&height=300">
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=react-dark&bg_color=0D1117&hide_border=true&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F&custom_title=GitHub%20Contribution%20Activity&days=365&height=300" onerror="this.style.display='none';document.getElementById('fallback-graph').style.display='block'">
+</picture>
+
+<!-- Fallback Activity Graph -->
+<div id="fallback-graph" style="display:none;">
+  <img alt="Fallback Activity Graph" src="https://github-readme-streak-stats.vercel.app/?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" onerror="this.style.display='none';document.getElementById('static-placeholder').style.display='block'">
+</div>
+
+<!-- Static Placeholder for Complete Service Failure -->
+<div id="static-placeholder" style="display:none; width:800px; height:300px; background-color:#0D1117; border-radius:10px; display:flex; align-items:center; justify-content:center; color:#F85D7F; font-family:Arial,sans-serif; font-size:18px; border:2px solid #F85D7F;">
+  📈 Activity Graph Temporarily Unavailable - Check Back Soon!
+</div>
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
+
+## 💡 GitHub Insights
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mofiz-Usmani&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/Mofiz-Usmani.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mofiz-Usmani?tab=followers)
+
+</div>
 
 ---
 
-## Show some ❤️ by starring some of the repositories!
+<div align="center">
+  
+### 🌟 Thanks for visiting my profile! Let's connect and build something amazing together! 🌟
 
-<div align="center"> 
-  😄 Thanks for stopping by! 🚀 
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Mofiz-Usmani&color=blueviolet&style=for-the-badge" /> 
 </div>
