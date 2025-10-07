@@ -25,14 +25,6 @@ I’m a developer who loves solving real-world problems through clean, scalable,
 
 <div align="center">
   
-### 📈 General Statistics
-<!-- Enhanced GitHub Stats with Error Handling and Caching -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_radius=10&card_width=500&cache_seconds=1800">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=2F80ED&icon_color=F85D7F&text_color=333333&border_radius=10&card_width=500&cache_seconds=1800">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_radius=10&card_width=500&cache_seconds=1800" onerror="this.onerror=null;this.src='https://via.placeholder.com/500x200/0D1117/F85D7F?text=Stats+Loading...'">
-</picture>
-
 ### 🔥 Contribution Streak
 <!-- Enhanced Streak Stats with Timezone Handling and Multiple Fallbacks -->
 <picture>
