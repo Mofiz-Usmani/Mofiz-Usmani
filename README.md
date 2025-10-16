@@ -26,40 +26,19 @@ I’m a developer who loves solving real-world problems through clean, scalable,
 <div align="center">
 
 ### 🔥 Contribution Streak
-<div align="center">
-  
-<!-- Multiple fallback streak stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mofiz-Usmani&theme=radical&hide_border=true)](https://git.io/streak-stats)
-  
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mofiz-Usmani&theme=radical)
 
-### 📈 Profile Stats & Languages
-<table>
-  <tr>
-    <td width="50%">
-      <!-- GitHub Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F" alt="GitHub Stats" style="width: 100%;" onerror="this.src='https://via.placeholder.com/500x200/0D1117/F85D7F?text=Stats+Loading...'"/>
-    </td>
-    <td width="50%">
-      <!-- Top Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" style="width: 100%;" onerror="this.src='https://via.placeholder.com/500x200/0D1117/F85D7F?text=Languages+Loading...'"/>
-    </td>
-  </tr>
-</table>
+### 📈 GitHub Stats
+![Mofiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=radical)
 
-### 📊 Activity & Trophies
-<table>
-  <tr>
-    <td width="60%">
-      <!-- Activity Graph -->
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=radical&bg_color=0D1117&hide_border=true&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F" alt="Activity Graph" style="width: 100%;" onerror="this.src='https://via.placeholder.com/600x300/0D1117/F85D7F?text=Activity+Graph+Loading...'"/>
-    </td>
-    <td width="40%">
-      <!-- GitHub Trophies -->
-      <img src="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=true&row=2&column=3" alt="GitHub Trophies" style="width: 100%;" onerror="this.src='https://via.placeholder.com/400x200/0D1117/F85D7F?text=Trophies+Loading...'"/>
-    </td>
-  </tr>
-</table>
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=radical)
+
+### 📊 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=radical)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical)
 
 </div>
 
