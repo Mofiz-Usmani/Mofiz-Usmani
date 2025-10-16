@@ -26,10 +26,7 @@ I’m a developer who loves solving real-world problems through clean, scalable,
 <div align="center">
   
 ### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117&fire=F85D7F&ring=F85D7F" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mofiz-Usmani&theme=radical)
 
 ### 💻 Most Used Languages
 <!-- Enhanced Language Stats with Compact Layout and Error Handling -->
