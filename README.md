@@ -26,36 +26,40 @@ I’m a developer who loves solving real-world problems through clean, scalable,
 <div align="center">
 
 ### 🔥 Contribution Streak
-<p align="center">
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"
-       alt="GitHub Streak"
-       width="500"
-  />
-</p>
-
-### 📈 Profile Stats
-![Mofiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F)
-
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8)
-
+<div align="center">
+  
+<!-- Multiple fallback streak stats -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mofiz-Usmani&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  
 </div>
-### 📊 Activity Graph
-<!-- Primary Activity Graph with Enhanced Error Handling -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=radical&bg_color=0D1117&hide_border=true&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F&custom_title=Contribution%20Activity%20Graph&days=365&height=300">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=minimal&bg_color=FFFFFF&hide_border=true&line=F85D7F&point=000000&area=true&area_color=F85D7F&custom_title=Contribution%20Activity%20Graph&days=365&height=300">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=radical&bg_color=0D1117&hide_border=true&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F&custom_title=Contribution%20Activity%20Graph&days=365&height=300" onerror="this.onerror=null;this.src='https://via.placeholder.com/800x300/0D1117/F85D7F?text=Activity+Graph+Loading...'">
-</picture>
 
-### 🏆 GitHub Trophies
-<!-- Enhanced GitHub Trophies with Performance Optimization -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" onerror="this.onerror=null;this.src='https://via.placeholder.com/800x200/0D1117/F85D7F?text=Trophies+Loading...'">
-</picture>
+### 📈 Profile Stats & Languages
+<table>
+  <tr>
+    <td width="50%">
+      <!-- GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F" alt="GitHub Stats" style="width: 100%;" onerror="this.src='https://via.placeholder.com/500x200/0D1117/F85D7F?text=Stats+Loading...'"/>
+    </td>
+    <td width="50%">
+      <!-- Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" style="width: 100%;" onerror="this.src='https://via.placeholder.com/500x200/0D1117/F85D7F?text=Languages+Loading...'"/>
+    </td>
+  </tr>
+</table>
+
+### 📊 Activity & Trophies
+<table>
+  <tr>
+    <td width="60%">
+      <!-- Activity Graph -->
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=radical&bg_color=0D1117&hide_border=true&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F" alt="Activity Graph" style="width: 100%;" onerror="this.src='https://via.placeholder.com/600x300/0D1117/F85D7F?text=Activity+Graph+Loading...'"/>
+    </td>
+    <td width="40%">
+      <!-- GitHub Trophies -->
+      <img src="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=true&row=2&column=3" alt="GitHub Trophies" style="width: 100%;" onerror="this.src='https://via.placeholder.com/400x200/0D1117/F85D7F?text=Trophies+Loading...'"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
