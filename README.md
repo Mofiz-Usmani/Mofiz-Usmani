@@ -24,18 +24,23 @@ I’m a developer who loves solving real-world problems through clean, scalable,
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-### 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mofiz-Usmani&theme=radical)
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"
+       alt="GitHub Streak"
+       width="500"
+  />
+</p>
+
+### 📈 Profile Stats
+![Mofiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F)
 
 ### 💻 Most Used Languages
-<!-- Enhanced Language Stats with Compact Layout and Error Handling -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&card_width=500&border_radius=10&cache_seconds=1800&exclude_repo=github-readme-stats">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2F80ED&text_color=333333&langs_count=8&card_width=500&border_radius=10&cache_seconds=1800&exclude_repo=github-readme-stats">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&card_width=500&border_radius=10&cache_seconds=1800&exclude_repo=github-readme-stats" onerror="this.onerror=null;this.src='https://via.placeholder.com/500x200/0D1117/F85D7F?text=Languages+Loading...'">
-</picture>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8)
 
+</div>
 ### 📊 Activity Graph
 <!-- Primary Activity Graph with Enhanced Error Handling -->
 <picture>
