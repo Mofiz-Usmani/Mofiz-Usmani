@@ -30,9 +30,9 @@ I’m a developer who loves solving real-world problems through clean, scalable,
 
 <p align="center">
   <img 
-       src="https://streak-stats.demolab.com?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" 
-       alt="GitHub Streak" 
-       width="500" 
+       src="https://streak-stats.demolab.com?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"
+       alt="GitHub Streak"
+       width="500"
   />
 </p>
 
