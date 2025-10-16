@@ -24,23 +24,49 @@ I’m a developer who loves solving real-world problems through clean, scalable,
 ## 📊 GitHub Statistics
 
 <div align="center">
+  
+### 📈 General Statistics
+<!-- Enhanced GitHub Stats with Error Handling and Caching -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_radius=10&card_width=500&cache_seconds=1800">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=2F80ED&icon_color=F85D7F&text_color=333333&border_radius=10&card_width=500&cache_seconds=1800">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_radius=10&card_width=500&cache_seconds=1800" onerror="this.onerror=null;this.src='https://via.placeholder.com/500x200/0D1117/F85D7F?text=Stats+Loading...'">
+</picture>
 
 ### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117&fire=F85D7F&ring=F85D7F)
-
-### 📈 GitHub Stats
-![Mofiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F)
+<!-- Enhanced Streak Stats with Timezone Handling and Multiple Fallbacks -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&card_width=500&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Mofiz-Usmani&theme=default&hide_border=true&background=FFFFFF&ring=F85D7F&fire=F85D7F&currStreakLabel=2F80ED&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=333333&excludeDaysLabel=333333&card_width=500&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&card_width=500&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800" onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com/?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117';if(this.onerror){this.onerror=null;this.src='https://via.placeholder.com/500x200/0D1117/F85D7F?text=Streak+Stats+Loading...'}">
+</picture>
 
 ### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
+<!-- Enhanced Language Stats with Compact Layout and Error Handling -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&card_width=500&border_radius=10&cache_seconds=1800&exclude_repo=github-readme-stats">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2F80ED&text_color=333333&langs_count=8&card_width=500&border_radius=10&cache_seconds=1800&exclude_repo=github-readme-stats">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&card_width=500&border_radius=10&cache_seconds=1800&exclude_repo=github-readme-stats" onerror="this.onerror=null;this.src='https://via.placeholder.com/500x200/0D1117/F85D7F?text=Languages+Loading...'">
+</picture>
 
 ### 📊 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=radical&bg_color=0D1117&hide_border=true&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F)
+<!-- Primary Activity Graph with Enhanced Error Handling -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=radical&bg_color=0D1117&hide_border=true&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F&custom_title=Contribution%20Activity%20Graph&days=365&height=300">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=minimal&bg_color=FFFFFF&hide_border=true&line=F85D7F&point=000000&area=true&area_color=F85D7F&custom_title=Contribution%20Activity%20Graph&days=365&height=300">
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=radical&bg_color=0D1117&hide_border=true&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F&custom_title=Contribution%20Activity%20Graph&days=365&height=300" onerror="this.onerror=null;this.src='https://via.placeholder.com/800x300/0D1117/F85D7F?text=Activity+Graph+Loading...'">
+</picture>
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=true)
+<!-- Enhanced GitHub Trophies with Performance Optimization -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" onerror="this.onerror=null;this.src='https://via.placeholder.com/800x200/0D1117/F85D7F?text=Trophies+Loading...'">
+</picture>
 
 </div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -64,7 +90,6 @@ I’m a developer who loves solving real-world problems through clean, scalable,
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
-
 ## 🏥 Featured Project: StarPharma
 
 <div align="center">
