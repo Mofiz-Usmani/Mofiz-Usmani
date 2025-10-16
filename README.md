@@ -1,7 +1,3 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="Cache-Control" content="public, max-age=3600">
-<meta http-equiv="Expires" content="3600">
-
 # Hi there! 👋 I'm Mofiz Usmani
 
 <div align="center">
@@ -12,19 +8,17 @@
 
 ## 🚀 About Me
 
-I’m a developer who loves solving real-world problems through clean, scalable, and efficient code. My focus is on building full-stack web applications that make a tangible impact.<br>
+I’m a full-stack developer who loves solving real-world problems through clean, scalable, and efficient code. My focus is on building web applications that make a tangible impact.
 
-🔭 Working on end-to-end web and mobile solutions<br>
-🌱 Learning Microservices, Cloud Architecture, and React Optimization<br>
-👯 Open to collaborations on HealthTech and SaaS projects<br>
-💬 Let’s talk about React, Node.js, Express, MongoDB, Cloud Services<br>
-📫 Email me: mofizusmani1@gmail.com<br>
+🔭 Working on end-to-end web and mobile solutions  
+🌱 Learning Microservices, Cloud Architecture, and React Optimization  
+👯 Open to collaborations on HealthTech and SaaS projects  
+💬 Let’s talk about React, Node.js, Express, MongoDB, Cloud Services  
+📫 Email me: mofizusmani1@gmail.com  
 ⚡ Fun fact: I see healthcare as the next big frontier for tech innovation
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  
 ### 📈 General Statistics
 <!-- Enhanced GitHub Stats with Error Handling and Caching -->
 <picture>
@@ -90,6 +84,7 @@ I’m a developer who loves solving real-world problems through clean, scalable,
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
+
 ## 🏥 Featured Project: StarPharma
 
 <div align="center">
