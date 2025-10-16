@@ -26,22 +26,21 @@ I’m a developer who loves solving real-world problems through clean, scalable,
 <div align="center">
 
 ### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mofiz-Usmani&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117&fire=F85D7F&ring=F85D7F)
 
 ### 📈 GitHub Stats
-![Mofiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=radical)
+![Mofiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F)
 
 ### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
 
 ### 📊 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=radical&bg_color=0D1117&hide_border=true&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F)
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=true)
 
 </div>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
