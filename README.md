@@ -8,12 +8,12 @@
 
 ## 🚀 About Me
 
-I’m a full-stack developer who loves solving real-world problems through clean, scalable, and efficient code. My focus is on building web applications that make a tangible impact.
+I'm a full-stack developer who loves solving real-world problems through clean, scalable, and efficient code. My focus is on building web applications that make a tangible impact.
 
 🔭 Working on end-to-end web and mobile solutions  
 🌱 Learning Microservices, Cloud Architecture, and React Optimization  
 👯 Open to collaborations on HealthTech and SaaS projects  
-💬 Let’s talk about React, Node.js, Express, MongoDB, Cloud Services  
+💬 Let's talk about React, Node.js, Express, MongoDB, Cloud Services  
 📫 Email me: mofizusmani1@gmail.com  
 ⚡ Fun fact: I see healthcare as the next big frontier for tech innovation
 
@@ -28,12 +28,15 @@ I’m a full-stack developer who loves solving real-world problems through clean
 </picture>
 
 ### 🔥 Contribution Streak
-<!-- Enhanced Streak Stats with Timezone Handling and Multiple Fallbacks -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&card_width=500&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Mofiz-Usmani&theme=default&hide_border=true&background=FFFFFF&ring=F85D7F&fire=F85D7F&currStreakLabel=2F80ED&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=333333&excludeDaysLabel=333333&card_width=500&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&card_width=500&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800" onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com/?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117';if(this.onerror){this.onerror=null;this.src='https://via.placeholder.com/500x200/0D1117/F85D7F?text=Streak+Stats+Loading...'}">
-</picture>
+<!-- Improved Contribution Streak Display with Multiple Fallbacks -->
+<div align="center">
+  <!-- Try Demolab Streak Stats First -->
+  <img 
+    src="https://streak-stats.demolab.com?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border_radius=10&card_width=500" 
+    alt="GitHub Contribution Streak" 
+    onerror="this.src='https://github-readme-streak-stats.herokuapp.com?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border_radius=10&card_width=500'; this.onerror=null;"
+  />
+</div>
 
 ### 💻 Most Used Languages
 <!-- Enhanced Language Stats with Compact Layout and Error Handling -->
@@ -149,6 +152,4 @@ I’m a full-stack developer who loves solving real-world problems through clean
 
 <div align="center">
   
-### 🌟 Thanks for visiting my profile! Let's connect and build something amazing together! 🌟
-
-</div>
+### 
