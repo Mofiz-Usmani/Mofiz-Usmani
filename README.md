@@ -55,15 +55,21 @@ I'm a full-stack developer who loves solving real-world problems through clean, 
 </picture>
 
 ### 🏆 GitHub Trophies
-<!-- Enhanced GitHub Trophies with Performance Optimization -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" onerror="this.onerror=null;this.src='https://via.placeholder.com/800x200/0D1117/F85D7F?text=Trophies+Loading...'">
-</picture>
-
+<!-- Enhanced GitHub Trophies with Performance Optimization and Error Handling -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" onerror="this.onerror=null;this.src='https://via.placeholder.com/800x200/0D1117/F85D7F?text=Trophies+Loading...';">
+  </picture>
+  
+  <!-- Fallback placeholder if trophies completely fail to load -->
+  <div id="trophies-fallback" style="display:none; width:800px; height:200px; background-color:#0D1117; border-radius:10px; display:flex; align-items:center; justify-content:center; color:#F85D7F; font-family:Arial,sans-serif; font-size:18px; border:2px solid #F85D7F; margin-top:10px;">
+    🏆 GitHub Trophies Temporarily Unavailable - Check Back Soon!
+  </div>
 </div>
 
+</div>
 ## 🛠️ Tech Stack
 
 <div align="center">
