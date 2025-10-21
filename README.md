@@ -60,16 +60,27 @@ I'm a full-stack developer who loves solving real-world problems through clean, 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" onerror="this.onerror=null;this.src='https://via.placeholder.com/800x200/0D1117/F85D7F?text=Trophies+Loading...';">
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" onerror="this.onerror=null;this.src='https://via.placeholder.com/800x200/0D1117/F85D7F?text=Trophies+Loading...';this.style.display='block';document.getElementById('trophies-fallback').style.display='none';">
   </picture>
   
   <!-- Fallback placeholder if trophies completely fail to load -->
-  <div id="trophies-fallback" style="display:none; width:800px; height:200px; background-color:#0D1117; border-radius:10px; display:flex; align-items:center; justify-content:center; color:#F85D7F; font-family:Arial,sans-serif; font-size:18px; border:2px solid #F85D7F; margin-top:10px;">
+  <div id="trophies-fallback" style="width:800px; height:200px; background-color:#0D1117; border-radius:10px; display:flex; align-items:center; justify-content:center; color:#F85D7F; font-family:Arial,sans-serif; font-size:18px; border:2px solid #F85D7F; margin-top:10px;">
     🏆 GitHub Trophies Temporarily Unavailable - Check Back Soon!
+  </div>
+  
+  <!-- Troubleshooting information -->
+  <div style="margin-top:15px; font-size:14px; color:#888;">
+    <p><strong>Note:</strong> If trophies are not displaying, it could be due to:</p>
+    <ul style="text-align:left; max-width:800px; margin:0 auto; color:#888;">
+      <li>Temporary service downtime (refresh the page to try again)</li>
+      <li>First-time generation (may take a few minutes to appear)</li>
+      <li>GitHub API rate limiting (try again in a few hours)</li>
+    </ul>
   </div>
 </div>
 
 </div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
