@@ -88,21 +88,6 @@ I'm a full-stack developer who loves solving real-world problems through clean, 
 
 </div>
 
-## 🏥 Featured Project: StarPharma
-
-<div align="center">
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mofiz-Usmani&repo=StarPharma&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Mofiz-Usmani/StarPharma)
-
-</div>
-
-**StarPharma** is a comprehensive pharmaceutical management system designed to streamline healthcare operations:
-
-- 🏪 **Inventory Management**: Real-time tracking of pharmaceutical products
-- 👥 **User Management**: Role-based access control for different stakeholders
-- 📊 **Analytics Dashboard**: Comprehensive reporting and insights
-- 🔐 **Security**: Enterprise-grade security measures
-- 📱 **Responsive Design**: Works seamlessly across all devices
 
 ## 📈 Contribution Activity
 
