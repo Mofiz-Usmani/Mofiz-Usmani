@@ -1,146 +1,30 @@
-# Hi there! 👋 I'm Mofiz Usmani
+<h1 align="center">Hi 👋, I'm Mofiz Usmani</h1>
+<h3 align="center">A Full Stack Developer from India</h3>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mofiz-usmani" alt="mofiz-usmani" /></a> </p>
 
-</div>
+- 🔭 I’m currently working on **React Projects**
 
-## 🚀 About Me
+- 🌱 I’m currently learning **React**
 
-I'm a full-stack developer who loves solving real-world problems through clean, scalable, and efficient code. My focus is on building web applications that make a tangible impact.
+- 👯 I’m looking to collaborate on **React Projects**
 
-🔭 Working on end-to-end web and mobile solutions  
-🌱 Learning Microservices, Cloud Architecture, and React Optimization  
-👯 Open to collaborations on HealthTech and SaaS projects  
-💬 Let's talk about React, Node.js, Express, MongoDB, Cloud Services  
-📫 Email me: mofizusmani1@gmail.com  
-⚡ Fun fact: I see healthcare as the next big frontier for tech innovation
+- 💬 Ask me about **React, JavaScript, Java, Node, Express, Mongo, MySql**
 
-## 📊 GitHub Statistics
+- 📫 How to reach me **mofizusmani1@gmail.com**
 
-### 📈 General Statistics
-<!-- Enhanced GitHub Stats with Error Handling and Caching -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_radius=10&card_width=500&cache_seconds=1800">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=2F80ED&icon_color=F85D7F&text_color=333333&border_radius=10&card_width=500&cache_seconds=1800">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mofiz-Usmani&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_radius=10&card_width=500&cache_seconds=1800" onerror="this.onerror=null;this.src='https://via.placeholder.com/500x200/0D1117/F85D7F?text=Stats+Loading...'">
-</picture>
+- ⚡ Fun fact **Good at Prompting**
 
-### 🔥 Contribution Streak
-<!-- Improved Contribution Streak Display with Multiple Fallbacks -->
-<div align="center">
-  <!-- Try Demolab Streak Stats First -->
-  <img 
-    src="https://streak-stats.demolab.com?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border_radius=10&card_width=500" 
-    alt="GitHub Contribution Streak" 
-    onerror="this.src='https://github-readme-streak-stats.herokuapp.com?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border_radius=10&card_width=500'; this.onerror=null;"
-  />
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mofiz-usmani-53b791359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mofiz-usmani-53b791359" height="30" width="40" /></a>
+</p>
 
-### 💻 Most Used Languages
-<!-- Enhanced Language Stats with Compact Layout and Error Handling -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&card_width=500&border_radius=10&cache_seconds=1800&exclude_repo=github-readme-stats">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2F80ED&text_color=333333&langs_count=8&card_width=500&border_radius=10&cache_seconds=1800&exclude_repo=github-readme-stats">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiz-Usmani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&card_width=500&border_radius=10&cache_seconds=1800&exclude_repo=github-readme-stats" onerror="this.onerror=null;this.src='https://via.placeholder.com/500x200/0D1117/F85D7F?text=Languages+Loading...'">
-</picture>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### 📊 Activity Graph
-<!-- Primary Activity Graph with Enhanced Error Handling -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=radical&bg_color=0D1117&hide_border=true&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F&custom_title=Contribution%20Activity%20Graph&days=365&height=300">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=minimal&bg_color=FFFFFF&hide_border=true&line=F85D7F&point=000000&area=true&area_color=F85D7F&custom_title=Contribution%20Activity%20Graph&days=365&height=300">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=radical&bg_color=0D1117&hide_border=true&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F&custom_title=Contribution%20Activity%20Graph&days=365&height=300" onerror="this.onerror=null;this.src='https://via.placeholder.com/800x300/0D1117/F85D7F?text=Activity+Graph+Loading...'">
-</picture>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mofiz-usmani&show_icons=true&locale=en&layout=compact" alt="mofiz-usmani" /></p>
 
-### 🏆 GitHub Trophies
-<!-- Enhanced GitHub Trophies with Performance Optimization and Error Handling -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Mofiz-Usmani&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=3600&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" onerror="this.onerror=null;this.src='https://via.placeholder.com/800x200/0D1117/F85D7F?text=Trophies+Loading...';this.style.display='block';document.getElementById('trophies-fallback').style.display='none';">
-  </picture>
-  
-  <!-- Fallback placeholder if trophies completely fail to load -->
-  <div id="trophies-fallback" style="width:800px; height:200px; background-color:#0D1117; border-radius:10px; display:flex; align-items:center; justify-content:center; color:#F85D7F; font-family:Arial,sans-serif; font-size:18px; border:2px solid #F85D7F; margin-top:10px;">
-  </div>
-</div>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mofiz-usmani&show_icons=true&locale=en" alt="mofiz-usmani" /></p>
 
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-
-## 📈 Contribution Activity
-
-<!-- Enhanced Activity Graph Section with Multiple Fallback Options -->
-<div align="center">
-  
-<!-- Primary Activity Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=react-dark&bg_color=0D1117&hide_border=true&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F&custom_title=GitHub%20Contribution%20Activity&days=365&height=300">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=minimal&bg_color=FFFFFF&hide_border=true&line=F85D7F&point=000000&area=true&area_color=F85D7F&custom_title=GitHub%20Contribution%20Activity&days=365&height=300">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mofiz-Usmani&theme=react-dark&bg_color=0D1117&hide_border=true&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F&custom_title=GitHub%20Contribution%20Activity&days=365&height=300" onerror="this.style.display='none';document.getElementById('fallback-graph').style.display='block'">
-</picture>
-
-<!-- Fallback Activity Graph -->
-<div id="fallback-graph" style="display:none;">
-  <img alt="Fallback Activity Graph" src="https://github-readme-streak-stats.vercel.app/?user=Mofiz-Usmani&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" onerror="this.style.display='none';document.getElementById('static-placeholder').style.display='block'">
-</div>
-
-<!-- Static Placeholder for Complete Service Failure -->
-<div id="static-placeholder" style="display:none; width:800px; height:300px; background-color:#0D1117; border-radius:10px; display:flex; align-items:center; justify-content:center; color:#F85D7F; font-family:Arial,sans-serif; font-size:18px; border:2px solid #F85D7F;">
-  📈 Activity Graph Temporarily Unavailable - Check Back Soon!
-</div>
-
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
-</div>
-
-## 💡 GitHub Insights
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mofiz-Usmani&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/Mofiz-Usmani.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mofiz-Usmani?tab=followers)
-
-</div>
-
----
-
-<div align="center">
-  
-### 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mofiz-usmani&" alt="mofiz-usmani" /></p>
