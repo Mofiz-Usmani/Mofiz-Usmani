@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mofiz Usmani</h1>
-<h3 align="center">A Full Stack Developer from India</h3>
+<h3 align="center">A Full Stack Developer</h3>
+<br>
 
 
 - 🌱 I’m currently learning **React**
